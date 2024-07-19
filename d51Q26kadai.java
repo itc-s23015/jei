@@ -2,10 +2,24 @@
 
 public class d51Q26kadai {
     public static void main(String[] args) {
-	int a = 1;
-	while (true) {
-	    System.out.print(a++);
-	    if (a <= 2) break;
-	}
+        int n = 1;
+        String s = "";
+
+        while (n == 1) {
+            switch (n) {
+                case 1:
+                    s += "one";
+                    break;
+                case 2:
+                    s += "two";
+                    break;
+                default:
+                    s += "?";
+                    break;
+            }
+            n = 0; 
+        }
+        System.out.println(s);
     }
 }
+
