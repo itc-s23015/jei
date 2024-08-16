@@ -1,4 +1,6 @@
 // s23015
+// 基本使用料が１００円値上げし、
+// 従量単価が各１円値上げさせた
 public class d51Q5kadai {
    public static void main(String[] args) {
 	double[] level = {0.0, 24.0, 57.0, Double.MAX_VALUE};
