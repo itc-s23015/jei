@@ -1,4 +1,5 @@
 // s23015
+// 素数を出力するコードを作成
 class d5Q52kadai {
     public static void main(String[] args) {
 	int min = Integer.parseInt(args[0]);

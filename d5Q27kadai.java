@@ -1,5 +1,5 @@
 // s23015
-
+// コマンドラインから与えられた整数を指定するように変更した
 class d5Q27kadai {
     public static void main(String[] args) {
 	int control = 3;

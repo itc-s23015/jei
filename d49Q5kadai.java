@@ -1,3 +1,5 @@
+// s23015
+// 基数をもう一つ加えるプログラムを作成できた
 public class d49Q5kadai {
     public static void main(String[] args) {
 	int limit = Integer.parseInt(args[0]);
