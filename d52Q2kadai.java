@@ -1,3 +1,6 @@
+// s23015
+// エラーを解消した
+
 class Temper {
     private double temperature;
     public double getTemperature() { return temperature; }
