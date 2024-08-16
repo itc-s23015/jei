@@ -1,9 +1,6 @@
 //s23015
 //目盛りを１０単位で表示するプログラムにした。
 
-//s23016
-//d52d5のコードをアレンジして、目盛りを１０単位で表示するプログラムにした。
-
 public class d52Q5kadai {
 				public static void main(String[] args) {
 								String majors = "+----";
