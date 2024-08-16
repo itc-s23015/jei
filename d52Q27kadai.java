@@ -1,3 +1,6 @@
+// s23015
+// コンパイルエラーをなくした
+
 enum Signal {
 	RED, YELLOW, GREEN;
 }
